@@ -1,6 +1,6 @@
 # CausalCode
 
-Code for paper "A Causality Inspired Framework for Enhancing Code Pre-trained Models"
+Code for paper "A Causal Learning Framework for Enhancing Robustness of Source Code Models"
 
 ## Create environment
 
