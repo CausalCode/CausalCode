@@ -2,6 +2,8 @@
 
 Code for paper "A Causal Learning Framework for Enhancing Robustness of Source Code Models"
 
+The code is able to reproduce the experimental results in the paper. In order to be anonymous, the paths are eliminated in bulk, so changing the appropriate path can make the code run normally.
+
 ## Create environment
 
 ```
